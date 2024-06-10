@@ -1,0 +1,5 @@
+# Set all .py files to be recognized as Python
+*.py linguist-language=Python
+
+# Set all .sql files to be recognized as SQL
+*.sql linguist-language=SQL
